@@ -1,0 +1,3 @@
+name: fs-advent
+description: "Example for F# Advent calendar"
+runtime: dotnet
