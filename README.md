@@ -1,2 +1,3 @@
 # fsharp-advent-pulumi
-Pulumi + F# example for F# Advent Calendar 2019
+
+Pulumi + F# examples for F# Advent Calendars 2019 and 2020

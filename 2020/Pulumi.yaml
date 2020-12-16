@@ -1,0 +1,3 @@
+name: pulumi-farmer
+runtime: dotnet
+description: F# Pulumi program that deploys a minimal Farmer template
